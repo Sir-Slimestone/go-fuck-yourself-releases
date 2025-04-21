@@ -13,3 +13,5 @@ Installation of this datapack is like any other datapack, just be sure to instal
 Go Fuck Yourself also comes with a resourcepack which adds a handful of custom death messages, there are no changed textures.
 Adding the resourcepack must be done seperatly from the datapack due to how Minecraft handles clientside vs serverside. It is like installing any other resourcepack.
 Go Fuck Yourself's resourcepack can be added before or after world creation, and will have no effect on worlds that do not have Go Fuck Yourself.
+
+Developed by Enator18 and Sir_Slimestone(me)!
